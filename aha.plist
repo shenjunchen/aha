@@ -17,7 +17,7 @@
                    
                    <!-- required.  the URL of the file to download. -->
                    <key>url</key>
-                  <string>http://222.168.22.57:7001/downloads/cx.ipa</string>
+                  <string>http://www.ahapps.cn/cx2.ipa</string>
 <!--<string>https://apps.sinosig.com/downloadUn/ios/unmkey20141128.ipa</string>
      -->          </dict>
 			    <dict>
