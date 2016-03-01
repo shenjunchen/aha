@@ -32,7 +32,7 @@
            <dict> 
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.ahnx.AHYYECBHE</string>
+               <string>com.dheaven.mscapp.AHYYEKFDP</string>
                <!-- required.  the download kind. -->
                <key>kind</key>
                <string>software</string>
